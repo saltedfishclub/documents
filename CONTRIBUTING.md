@@ -36,12 +36,12 @@
  
  比如这样:
  ```
- Remove a typo in document.
+ (doc) Remove a typo in document.
  ```
  
  或者这样：
  ```
- [Refactor](BootStrap Module) resource loading in init phase.
+ (bootstrap) Refactor resource loading in init phase.
  ```
 
 接着下面可以写更多行来具体描述你干了什么，或者是别的顺带牵扯到的东西，比如某些魔法问题的参考解决方案来源，或者什么不适合放在注释里的东西。  
