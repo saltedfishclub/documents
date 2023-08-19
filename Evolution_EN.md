@@ -21,7 +21,7 @@ For the `x.y.z` version number:
 - When `z` increases, only bug fixes and necessary code additions are made, with no breaking changes.
 - When `y` increases, there will always be API changes (introduction/deprecation). Deprecated APIs will be removed after two minor versions to ensure backward compatibility. For changes with more significant disruptive updates, Maintainers always allocate additional maintenance time for the y version, but the period is one-sixth of the normal LTS (Two months).
 - When `x` increases, any API can change, with no backward compatibility guarantee. An LTS (Long Term Support) version is released every two `x` versions.
-    - For an LTS version of `x`, it is always based on the last `y.z` version under `x`, meaning that other `y.z` versions under `x` will always become invalid.
+    - For an LTS version of `x`, it is always based on the last `y.z` version under `x`, meaning that other `y.z` versions under `x` will always become unmaintained.
 
 # Deprecation
 
